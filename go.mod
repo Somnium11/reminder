@@ -1,6 +1,6 @@
-module read-adviser-bot
+module reminder-bot
 
-go 1.17
+go 1.21.1
 
 require go.mongodb.org/mongo-driver v1.8.1
 

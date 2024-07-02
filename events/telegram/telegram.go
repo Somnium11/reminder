@@ -4,9 +4,9 @@ import (
 	"context"
 	"errors"
 
-	"reminder-bot-bot/clients/telegram"
-	"reminder-bot-bot/events"
-	"reminder-bot-bot/lib/e"
+	"reminder-bot/clients/telegram"
+	"reminder-bot/events"
+	"reminder-bot/lib/e"
 	"reminder-bot/storage"
 )
 
