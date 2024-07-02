@@ -4,11 +4,11 @@ import (
 	"log"
 	"time"
 
-	tgClient "read-adviser-bot/clients/telegram"
-	"read-adviser-bot/config"
-	"read-adviser-bot/consumer/event-consumer"
-	"read-adviser-bot/events/telegram"
-	"read-adviser-bot/storage/mongo"
+	tgClient "reminder-bot/clients/telegram"
+	"reminder-bot/config"
+	"reminder-bot/consumer/event-consumer"
+	"reminder-bot/events/telegram"
+	"reminder-bot/storage/mongo"
 )
 
 const (

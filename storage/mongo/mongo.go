@@ -11,8 +11,8 @@ import (
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 
-	"read-adviser-bot/lib/e"
-	"read-adviser-bot/storage"
+	"reminder-bot/lib/e"
+	"reminder-bot/storage"
 )
 
 type Storage struct {

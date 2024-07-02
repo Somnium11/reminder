@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"read-adviser-bot/events"
+	"reminder-bot/events"
 )
 
 type Consumer struct {

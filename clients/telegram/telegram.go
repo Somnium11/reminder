@@ -9,7 +9,7 @@ import (
 	"path"
 	"strconv"
 
-	"read-adviser-bot/lib/e"
+	"reminder-bot/lib/e"
 )
 
 type Client struct {

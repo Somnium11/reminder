@@ -10,8 +10,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"read-adviser-bot/lib/e"
-	"read-adviser-bot/storage"
+	"reminder-bot/lib/e"
+	"reminder-bot/storage"
 )
 
 type Storage struct {

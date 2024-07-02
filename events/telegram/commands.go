@@ -7,8 +7,8 @@ import (
 	"net/url"
 	"strings"
 
-	"read-adviser-bot/lib/e"
-	"read-adviser-bot/storage"
+	"reminder-bot/lib/e"
+	"reminder-bot/storage"
 )
 
 const (
